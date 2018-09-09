@@ -1,0 +1,44 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "water facts",
+            "intents": [
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "a fact",
+                        "a water fact",
+                        "tell me a fact",
+                        "tell me a water fact",
+                        "give me a fact",
+                        "give me a water fact",
+                        "tell me trivia",
+                        "tell me a water trivia",
+                        "give me trivia",
+                        "give me a water trivia",
+                        "give me some information",
+                        "give me some water information",
+                        "tell me something",
+                        "give me something",
+                        "enlighten me with a fact",
+                        "enlighten me with a water fact"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                }
+            ],
+            "types": []
+        }
+    }
+}
