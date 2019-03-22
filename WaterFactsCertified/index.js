@@ -20,15 +20,19 @@ const languageStrings = {
     'en': {
         translation: {
             FACTS: [
-                'Everyone who has died has consumed Water.',
-                'The atomic weight of H2O is 18',
-                'Di-Hydrogen Monoxide will kill you',
                 'Nearly 97% of the world is satlty or undrinkable.',
                 '2% of water is ice',
+                'NASA scientists predict that there is an 80 percent chance of a megadrought in the Southwest United States before the end of the century.',
                 'Nearly one-half of the water used by Americans is used for thermoelectric power generation',
                 'Water can dissolve more substances than any other liquid including sulfuric acid.',
                 'About 6,800 gallons of water is required to grow a day’s food for a family of four.',
-                'Unsafe water kills 200 children every hour.'
+                'Unsafe water kills 200 children every hour.',
+                'The drought currently encompasses over 98% of the state of California.',
+                'Farmers could sell their water for $700 an acre foot, more than they would earn by using the water to grow crops.',
+                'California is the world’s fifth-largest supplier of food.',
+                'The current drought cost the (farming) sector an estimated $2.2 billion last year.',
+
+                
             ],
             SKILL_NAME: 'Water Facts',
             GET_FACT_MESSAGE: "Here's your fact: ",
